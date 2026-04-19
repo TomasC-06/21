@@ -1,0 +1,4 @@
+COMMAND_SIZE = 9
+INT_SIZE = 8
+PORT = 35001
+SERVER_ADDRESS = "localhost"
